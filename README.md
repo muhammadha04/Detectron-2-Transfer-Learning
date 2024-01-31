@@ -3,8 +3,9 @@
 
 ## Overview
 In this project, I utilized the Detectron2 library and transfer learning techniques to train a model for detecting persons, cars, and traffic lights. The custom dataset comprises street images taken in the Haifa area, particularly around the University campus. This project serves as a testament to the effectiveness of transfer learning and the Detectron2 library for object detection tasks. It demonstrates the library's potential applicability in real-world scenarios. This work is an ongoing effort and will be further developed in Final Project 1 & 2.
+![image](https://github.com/muhammadha04/Detectron-2-Transfer-Learning/assets/103769302/380e5d62-1df5-45fc-9f08-69d3da986021)
+![image](https://github.com/muhammadha04/Detectron-2-Transfer-Learning/assets/103769302/b64813fa-05b8-4484-a82f-f5a2d95308ed)
 
-Submitted by: Muhammad Haj Ali
 
 ## Installation Requirements
 The project requires Python 3.9.13 and Microsoft Visual C++ 14.0. A compatible graphics card is also necessary for optimal performance.
